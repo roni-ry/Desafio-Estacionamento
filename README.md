@@ -1,5 +1,3 @@
-Aqui está uma sugestão de descrição em linguagem Markdown (MD) para o seu projeto **Desafio Estacionamento** no GitHub:
-
 ---
 
 # 🚗 Desafio Estacionamento
@@ -48,11 +46,3 @@ Quantas horas o veículo permaneceu estacionado?
 3
 Valor total a pagar: R$ 11
 ```
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-Se quiser, posso adaptar o tom para algo mais técnico ou mais descontraído. Quer?
